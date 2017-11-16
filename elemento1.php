@@ -13,6 +13,7 @@
 
   <p>Gracias por invitarme al Proyecto</p>
 
-  <h4>TAN LINDO :3 <3 </h4>
+  <h4>TAN LINDO :3 ♥ </h4>
+  <p>Ya corregi el corazon</p>
 </body>
 </html>
